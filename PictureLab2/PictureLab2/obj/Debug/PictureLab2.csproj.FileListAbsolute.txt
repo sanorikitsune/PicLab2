@@ -1,0 +1,10 @@
+C:\Users\Sanori\Documents\Учеба\СЦОИ\Pic2\PictureLab2\PictureLab2\PictureLab2\bin\Debug\PictureLab2.exe.config
+C:\Users\Sanori\Documents\Учеба\СЦОИ\Pic2\PictureLab2\PictureLab2\PictureLab2\bin\Debug\PictureLab2.exe
+C:\Users\Sanori\Documents\Учеба\СЦОИ\Pic2\PictureLab2\PictureLab2\PictureLab2\bin\Debug\PictureLab2.pdb
+C:\Users\Sanori\Documents\Учеба\СЦОИ\Pic2\PictureLab2\PictureLab2\PictureLab2\obj\Debug\PictureLab2.csprojAssemblyReference.cache
+C:\Users\Sanori\Documents\Учеба\СЦОИ\Pic2\PictureLab2\PictureLab2\PictureLab2\obj\Debug\PictureLab2.Form1.resources
+C:\Users\Sanori\Documents\Учеба\СЦОИ\Pic2\PictureLab2\PictureLab2\PictureLab2\obj\Debug\PictureLab2.Properties.Resources.resources
+C:\Users\Sanori\Documents\Учеба\СЦОИ\Pic2\PictureLab2\PictureLab2\PictureLab2\obj\Debug\PictureLab2.csproj.GenerateResource.cache
+C:\Users\Sanori\Documents\Учеба\СЦОИ\Pic2\PictureLab2\PictureLab2\PictureLab2\obj\Debug\PictureLab2.csproj.CoreCompileInputs.cache
+C:\Users\Sanori\Documents\Учеба\СЦОИ\Pic2\PictureLab2\PictureLab2\PictureLab2\obj\Debug\PictureLab2.exe
+C:\Users\Sanori\Documents\Учеба\СЦОИ\Pic2\PictureLab2\PictureLab2\PictureLab2\obj\Debug\PictureLab2.pdb
